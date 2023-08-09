@@ -1,5 +1,5 @@
 ### Hi there 👋
-### JavaScript | React.js | Node.js | Express.js | AWS | Redux | Redis| Material UI | PHP | MySQL | PostgreSQL | HTML | CSS | Photoshop | Git
+### JavaScript | React.js | Node.js | Express.js | AWS | Redux | Redis | Material UI | PHP | MySQL | PostgreSQL | HTML | CSS | Photoshop | Git
 
 Hello! I'm Pankaj Batham, a passionate Full Stack Developer with expertise in building web applications. I specialize in front-end development using React.js, JavaScript, HTML, and CSS to create dynamic and responsive user interfaces. On the back-end, I have experience with PHP and database management systems like MySQL and PostgreSQL.
 
